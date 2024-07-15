@@ -23,7 +23,6 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Seq7mBGXnWA8aOcoNpqKuvr65bY3nQKS/view?usp=sharing).
 - :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/darshilthakkar/).
 <br>
 
