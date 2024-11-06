@@ -18,7 +18,7 @@
 
 <br><br>
 
-- :University: I am a `Junior` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
+- University: I am a `Junior` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
